@@ -5,3 +5,4 @@ en:Imsil Cheese Theme Park
 en:1969 Talladega 500
 en:Elvis impersonator
 en:Christmas in Nazi Germany
+en:Demon core
