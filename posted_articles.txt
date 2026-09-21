@@ -7,3 +7,4 @@ en:Elvis impersonator
 en:Christmas in Nazi Germany
 en:Demon core
 en:Moving sofa problem
+en:Electrical disruptions caused by squirrels
