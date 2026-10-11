@@ -27,3 +27,4 @@ en:274301 Wikipedia
 en:Yasuke
 en:LadBaby
 en:Kebabnorsk
+en:Akwesasne
