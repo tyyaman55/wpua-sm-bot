@@ -38,3 +38,4 @@ en:E depois do adeus
 en:Hatari (band)
 en:Stambovsky v. Ackley
 en:Wenis
+en:Yo (app)
